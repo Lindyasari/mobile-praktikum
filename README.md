@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Proyek Pemrograman Mobile
 ## Deskripsi
-Aplikasi latihan untuk pengembangan perangkat lunak menggunakan flutter
+Aplikasi latihan untuk pengembangan aplikasi mobile menggunakan flutter
 ## Pengembang
 Nama panggilan / akun GitHub: Lindyasari
 ## Status

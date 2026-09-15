@@ -1,25 +1,15 @@
-# tugas2_app
+# Tugas 2 Mobile - Praktikum Pemrograman Mobile
 
-A new Flutter project.
+## Tujuan Aplikasi
+Aplikasi ini dikembangkan sebagai bentuk latihan praktikum untuk mempelajari dasar-dasar pengembangan aplikasi mobile berbasis Flutter dan pengolahan alur kerja Git/GitHub.
 
-## Getting Started
+## Rencana Fitur
+1. Navigasi Antarmuka Utama
+2. Manajemen Tugas / Data Interaktif
+3. Integrasi Layout dan Form Input
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-# Proyek Pemrograman Mobile
-## Deskripsi
-Aplikasi latihan untuk pengembangan aplikasi mobile menggunakan flutter
-## Pengembang
-Nama panggilan / akun GitHub: Lindyasari
-## Status
-Proyek awal perkuliahan.
+## Cara Menjalankan Aplikasi
+1. Buka terminal di direktori utama proyek (`tugas2_app`).
+2. Unduh dan perbarui semua dependensi Flutter:
+   ```bash
+   flutter pub get

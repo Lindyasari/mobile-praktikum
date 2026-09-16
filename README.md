@@ -10,6 +10,6 @@ Aplikasi ini dikembangkan sebagai bentuk latihan praktikum untuk mempelajari das
 
 ## Cara Menjalankan Aplikasi
 1. Buka terminal di direktori utama proyek (`tugas2_app`).
-2. Unduh dan perbarui semua dependensi Flutter:
+2. Unduh dan perbarui dependensi Flutter:
    ```bash
    flutter pub get
